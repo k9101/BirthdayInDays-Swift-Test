@@ -1,4 +1,4 @@
 BirthdayInDays-Swift-Test
 =========================
 
-Teaching myslef
+A revolutionary app to determine the number of days that you have been alive!
