@@ -43,7 +43,8 @@ class ViewController: UIViewController {
 		
 		var dayString = numberFormatter.stringFromNumber(numberOfDaysAlive!)
 		
-		outputLabel.text = "You have been alive for: \(dayString) days"
+		
+		outputLabel.text = "You have been alive for: \(dayString!) days"
 	}
 	
 }
